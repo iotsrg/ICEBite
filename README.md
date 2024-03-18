@@ -14,6 +14,7 @@ Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bi
      - Maximum clip thickness: 6mm
      - Built-in trays for components and screws
      - Includes 6 silicon clip tips for superior heat resistance
+       ![](/images/1.webp)
 
 2. **Spring Test Probe Pogo Pin P100-B1 Dia 1.36 mm**
    - [Product Link](https://www.farnell.com/datasheets/3968496.pdf)
