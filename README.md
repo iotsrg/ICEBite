@@ -29,5 +29,5 @@ ICE-Bite from IoTSecurity101 offers a practical and affordable solution for sold
 
 
 ## Contributors:
-1. K Ekanathan(https://github.com/kekanath)
-2. Mr-IoT(https://github.com/V33RU)
+1. [K Ekanathan](https://github.com/kekanath)
+2. [Mr-IoT](https://github.com/V33RU)
