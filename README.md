@@ -26,7 +26,7 @@ Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bi
    - Description: High-quality pogo pins with a diameter of 1.36mm for reliable electrical connections during debugging.
    - [Datasheet](https://www.farnell.com/datasheets/3968496.pdf)
 
-![](/images/springtestprobe.jpg)
+![](/images/springtestprobe.PNG)
 
 4. **Proskit SN-390 Metal Adjustable Soldering Clamp Holder** (Optional)
    - [Product Link](https://www.amazon.in/Proskit-SN-390-Adjustable-Soldering-Multicolour/dp/B07JKLC61F?th=1)
