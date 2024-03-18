@@ -1,31 +1,29 @@
 # ICEBite
-A cheaper and open-hardware version of the blasoned Pizzabite WHID , perfect for holding your PCB while soldering or inspection.
 
-Introducing ICE-Bite from IoTSecurity101 - DIY Debug Connectors 
+# Introducing ICE-Bite from IoTSecurity101 - DIY Debug Connectors
 
-This project inspired Pizzabite from whid team , our 1st indian version for our beloved indian where they can do it lowend cost when there is customs and importing cost is high
+Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bite, a cost-effective, open-hardware alternative tailored for the Indian market. Designed with affordability and accessibility in mind, ICE-Bite offers a budget-friendly solution for holding your PCB securely during soldering or inspection tasks.
 
-follow up each and every detailed hardware tools which we used here along picture references.. 
+## Key Features:
 
-Requirements :
+1. **Flexible Arms Soldering Station With Swiveling Alligator Clip**
+   - [Product Link](https://robu.in/product/six-flexible6-arm-soldering-station-wo-usb-fan/)
+   - Features:
+     - 6 flexible arms with large swiveling alligator clips
+     - Alligator clip size: 44mm (large)
+     - Maximum clip thickness: 6mm
+     - Built-in trays for components and screws
+     - Includes 6 silicon clip tips for superior heat resistance
 
-1. 3/4/6 Flexible Arms Soldering Station With Swiveling Alligator Clip - https://robu.in/product/six-flexible6-arm-soldering-station-wo-usb-fan/
-	 Above product comes below 
-	Alligator clip(L): 44mm (large size)
-	Alligator clips maximum thickness limit: 6mm
-	Built-in Trays for components and screws.
-	6 flexible arms each with a large swiveling alligator clip.
-	6+1 pockets in beautifully base to hold loose components.
-	6 Silicon clip tips for the ultimate heat resistance.
-   
-3. ICE-Bite IoTSecurity101 product 
-	Follow below link PCB Diagram
-4. Spring Test Probe Pogo Pin P100-B1 Dia 1.36 mm , the lesser dia more costing alternative website is element14
-	we choose from element14 due to avaialability of the product in market
+2. **Spring Test Probe Pogo Pin P100-B1 Dia 1.36 mm**
+   - [Product Link](https://www.farnell.com/datasheets/3968496.pdf)
+   - Description: High-quality pogo pins with a diameter of 1.36mm for reliable electrical connections during debugging.
 
- https://www.farnell.com/datasheets/3968496.pdf
-6. Proskit SN-390 Metal Adjustable Soldering Clamp Holder
-	 9 inch wide PCBs
-	 still you can way cheaper soldering holders from INR-150
-7. 
+3. **Proskit SN-390 Metal Adjustable Soldering Clamp Holder**
+   - Description: A sturdy soldering clamp holder, accommodating PCBs up to 9 inches wide. For more budget-friendly options, similar soldering holders are available for as low as INR 150.
+
+Additionally, detailed PCB diagrams are available via the provided link for easy reference and assembly.
+
+ICE-Bite from IoTSecurity101 offers a practical and affordable solution for soldering and inspection needs, empowering DIY enthusiasts and professionals alike to enhance their projects without breaking the bank.
+
 
