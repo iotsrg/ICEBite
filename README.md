@@ -20,6 +20,7 @@ Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bi
    - Description: High-quality pogo pins with a diameter of 1.36mm for reliable electrical connections during debugging.
 
 3. **Proskit SN-390 Metal Adjustable Soldering Clamp Holder**
+   - [Product Link](https://www.amazon.in/Proskit-SN-390-Adjustable-Soldering-Multicolour/dp/B07JKLC61F?th=1)
    - Description: A sturdy soldering clamp holder, accommodating PCBs up to 9 inches wide. For more budget-friendly options, similar soldering holders are available for as low as INR 150.
 
 Additionally, detailed PCB diagrams are available via the provided link for easy reference and assembly.
