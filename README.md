@@ -28,3 +28,6 @@ Additionally, detailed PCB diagrams are available via the provided link for easy
 ICE-Bite from IoTSecurity101 offers a practical and affordable solution for soldering and inspection needs, empowering DIY enthusiasts and professionals alike to enhance their projects without breaking the bank.
 
 
+## Contributors:
+1. K Ekanathan(https://github.com/kekanath)
+2. Mr-IoT(https://github.com/V33RU)
