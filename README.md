@@ -20,10 +20,12 @@ Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bi
 2. **Spring Test Probe Pogo Pin P100-B1 Dia 1.36 mm**
    - [Product Link](https://www.farnell.com/datasheets/3968496.pdf)
    - Description: High-quality pogo pins with a diameter of 1.36mm for reliable electrical connections during debugging.
+![](/images/springtestprobe.jpg)
 
 3. **Proskit SN-390 Metal Adjustable Soldering Clamp Holder**
    - [Product Link](https://www.amazon.in/Proskit-SN-390-Adjustable-Soldering-Multicolour/dp/B07JKLC61F?th=1)
    - Description: A sturdy soldering clamp holder, accommodating PCBs up to 9 inches wide. For more budget-friendly options, similar soldering holders are available for as low as INR 150.
+![](/images/pcb-holder.jpg)
 
 Additionally, detailed PCB diagrams are available via the provided link for easy reference and assembly.
 
