@@ -24,6 +24,7 @@ Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bi
 3. **Spring Test Probe Pogo Pin P100-B1 Dia 1.36 mm**
    - [Product Link](https://www.farnell.com/datasheets/3968496.pdf)
    - Description: High-quality pogo pins with a diameter of 1.36mm for reliable electrical connections during debugging.
+   - [Datasheet](https://www.farnell.com/datasheets/3968496.pdf)
 
 ![](/images/springtestprobe.jpg)
 
