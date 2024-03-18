@@ -7,6 +7,10 @@ Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bi
 ## Key Features:
 
 1. **Flexible Arms Soldering Station With Swiveling Alligator Clip**
+
+![](images/icebite-2.PNG)
+
+2. **Flexible Arms Soldering Station With Swiveling Alligator Clip**
    - [Product Link](https://robu.in/product/six-flexible6-arm-soldering-station-wo-usb-fan/)
    - Features:
      - 6 flexible arms with large swiveling alligator clips
@@ -17,13 +21,13 @@ Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bi
 
 ![](/images/1.webp)
 
-2. **Spring Test Probe Pogo Pin P100-B1 Dia 1.36 mm**
+3. **Spring Test Probe Pogo Pin P100-B1 Dia 1.36 mm**
    - [Product Link](https://www.farnell.com/datasheets/3968496.pdf)
    - Description: High-quality pogo pins with a diameter of 1.36mm for reliable electrical connections during debugging.
 
 ![](/images/springtestprobe.jpg)
 
-3. **Proskit SN-390 Metal Adjustable Soldering Clamp Holder**
+4. **Proskit SN-390 Metal Adjustable Soldering Clamp Holder**
    - [Product Link](https://www.amazon.in/Proskit-SN-390-Adjustable-Soldering-Multicolour/dp/B07JKLC61F?th=1)
    - Description: A sturdy soldering clamp holder, accommodating PCBs up to 9 inches wide. For more budget-friendly options, similar soldering holders are available for as low as INR 150.
 
