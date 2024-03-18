@@ -6,7 +6,7 @@ Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bi
 
 ## Key Features:
 
-1. **Flexible Arms Soldering Station With Swiveling Alligator Clip**
+1. **Ice-bite**
 
 ![](images/icebite-2.PNG)
 
