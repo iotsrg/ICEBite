@@ -1,6 +1,6 @@
 # ICEBite
 
-# Introducing ICE-Bite from IoTSecurity101 - DIY Debug Connectors
+# Introducing ICE-Bite from IoTSecurity101 - Solderless Testing Probes
 
 Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bite, a cost-effective, open-hardware alternative tailored for the Indian market. Designed with affordability and accessibility in mind, ICE-Bite offers a budget-friendly solution for holding your PCB securely during soldering or inspection tasks.
 
