@@ -9,7 +9,7 @@ Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bi
 1. **Ice-bite**
 
 ![](images/icebite-2.PNG)
-
+<img src="images/icebite-2.PN" width="150" height="100" /> 
 2. **Flexible Arms Soldering Station With Swiveling Alligator Clip**
    - [Product Link](https://robu.in/product/six-flexible6-arm-soldering-station-wo-usb-fan/)
    - Features:
