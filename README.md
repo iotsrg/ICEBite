@@ -20,10 +20,10 @@ Additionally, detailed PCB diagrams are available via the provided link for easy
 ICE-Bite from IoTSecurity101 offers a practical and affordable solution for soldering and inspection needs, empowering DIY enthusiasts and professionals alike to enhance their projects without breaking the bank.
 
 ## <span style="color:#FF6347">Contributors:</span>
-1. [K Ekanathan](https://github.com/kekanath)
+1. [Karthik Ekanathan](https://github.com/kekanath)
 2. [Mr-IoT](https://github.com/V33RU)
 
 ## Talks 
 | **Year** | **Speaker Name** | **Conference/Meetup Name** | **Talk** |
 |----------|------------------|----------------------------|----------|
-| 2024     | [K Ekanathan](https://github.com/kekanath) | [Null Community Meetup](https://null.community/) | [Microprobing with ICEBite](https://null.community/event_sessions/4278-microprobing-with-icebite) |
+| 2024     | [Karthik Ekanathan](https://github.com/kekanath) | [Null Community Meetup](https://null.community/) | [Microprobing with ICEBite](https://null.community/event_sessions/4278-microprobing-with-icebite) |
