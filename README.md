@@ -1,6 +1,6 @@
 # ICEBite
 
-# <span style="color:#1E90FF">Introducing ICE-Bite from IoTSecurity101 - Solderless Testing Probes</span>
+# <span style="color:#1E90FF">Introducing ICE-Bite from IoTSRG - Solderless Testing Probes</span>
 
 Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bite, a cost-effective, open-hardware alternative tailored for the Indian market. Designed with affordability and accessibility in mind, ICE-Bite offers a budget-friendly solution for holding your PCB securely during soldering or inspection tasks.
 
@@ -17,7 +17,7 @@ Inspired by the renowned Pizzabite from the WHID team, we proudly present ICE-Bi
 
 Additionally, detailed PCB diagrams are available via the provided link for easy reference and assembly.
 
-ICE-Bite from IoTSecurity101 offers a practical and affordable solution for soldering and inspection needs, empowering DIY enthusiasts and professionals alike to enhance their projects without breaking the bank.
+ICE-Bite from IoTSRG offers a practical and affordable solution for soldering and inspection needs, empowering DIY enthusiasts and professionals alike to enhance their projects without breaking the bank.
 
 ## <span style="color:#FF6347">Contributors:</span>
 1. [Karthik Ekanathan](https://github.com/kekanath)
